@@ -8,7 +8,7 @@ The main objective of this project is to help business users understand sales pe
 
 ## Dashboard Preview
 
-(Pizza_Sales_Report.pdf)
+![Pizza Sales Dashboard](pizza_report_image)
 
 ## Key KPIs
 * Total Revenue: 817.62K
